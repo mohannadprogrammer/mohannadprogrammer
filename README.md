@@ -1,5 +1,6 @@
 # Hi there 👋'
 <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="150px" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 <p align="left" >
 <p>About me</p> 	
 I am Software Engineer and full stack developer in JavaScript (Node js , React js , React native js ) .I have the ability to find technical solutions for problems that face any Company  or individuals and building Reliable  , Usable , Efficient , portable and maintainable  software.
@@ -8,7 +9,7 @@ Researcher  in DevOps Philosophy (Green field in Software Engineering ) , which 
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
+
 <per align="center">
 - 🔭 I’m currently working on react native and react js frameworks 😍😘
 - 📫 How to reach me: waheedmohannad55578@gmail.com 👾
