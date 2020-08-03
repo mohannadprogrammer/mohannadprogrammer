@@ -1,5 +1,5 @@
 ### Hi there 👋'
-<div align="left" sytle="padding:20px ; border-radius:10px">
+<div align="left" sytle="padding:20px ; border-radius:10px ;border: 2px solid red;">
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/>
 </div>
 <p> my name is mohannad waheed :</p>
