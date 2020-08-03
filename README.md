@@ -2,7 +2,7 @@
 
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 
 - 🔭 I’m currently working on react native and react js frameworks 😍😘
 - 📫 How to reach me: waheedmohannad55578@gmail.com 👾
