@@ -1,8 +1,7 @@
 ### Hi there 👋'
 <p align="left">
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/>,
-
- my name is mohannad waheed :
+<p> my name is mohannad waheed :</p>
 anad 
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
