@@ -1,7 +1,7 @@
 ### Hi there 👋'
  <body>
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" 
- style="border-radius:100px;" 
+
  style="align:center;"
  width="150px" height ="250px"/>
 
