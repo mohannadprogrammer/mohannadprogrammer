@@ -1,6 +1,6 @@
 # Hi there 👋'
-<div align="left"><img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/></div>
-<p> my name is mohannad waheed :</p>
+<div ><img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/></div>
+<p align="right"> my name is mohannad waheed :</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
