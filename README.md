@@ -1,7 +1,7 @@
 ### Hi there 👋'
-<p align="left">
+<div align="left" sytle="padding:20px">
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/>
-</p>
+</div>
 <p> my name is mohannad waheed :</p>
 
 
