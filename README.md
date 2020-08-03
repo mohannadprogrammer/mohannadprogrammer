@@ -2,7 +2,6 @@
  <body>
  <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" 
 
- style="align:center;"
  width="150px" height ="250px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
