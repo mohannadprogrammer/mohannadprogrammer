@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/m1.jpg" width="250px" height="250px"/>
+ <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/m1.jpg" width="100%"/>
 <!--
 **mohannadprogrammer/mohannadprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
