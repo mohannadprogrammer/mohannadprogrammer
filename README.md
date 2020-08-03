@@ -1,8 +1,6 @@
 ### Hi there 👋'
  <body>
- <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" 
-
- width="150px" height ="250px"/>
+ <img src="https://github.com/mohannadprogrammer/mohannadprogrammer/blob/master/fuj.jpg" width="150px" height ="250px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 
