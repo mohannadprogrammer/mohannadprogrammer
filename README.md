@@ -1,5 +1,5 @@
 # Hi there 👋'
-<img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/Component%2012%20%E2%80%93%205.png" width="100%"  /> 
+<img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/Component%2012%20%E2%80%93%205.png" width="80%"  /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 <p align="left" >
 <p>About me</p> 	
