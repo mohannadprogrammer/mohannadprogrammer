@@ -1,6 +1,6 @@
 # Hi there 👋'
-<img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/Component%2012%20%E2%80%93%205.png" width="50%"  /> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
+<p align="center"><img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/Component%2012%20%E2%80%93%205.png" width="50%"  /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 <p align="left" >
 <p>About me</p> 	
 I am Software Engineer and full stack developer in JavaScript (Node js , React js , React native js ) .I have the ability to find technical solutions for problems that face any Company  or individuals and building Reliable  , Usable , Efficient , portable and maintainable  software.
