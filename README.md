@@ -1,5 +1,9 @@
 # Hi there 👋'
-<p align="left"><img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/photo1637403938(1).jpeg" width="50%"  /> </p>
+<p align="left"><img src="https://github.com/mohannadprogrammer/adobe-XD-Daily-Design/blob/master/Design/photo1637403938(1).jpeg" width="50%"  />
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mohannadprogrammer&show_icons=true" alt="mohannad waheed " /> 
+</p> 
+</p>
  <p align="right">
  <img src="https://github-readme-stats.vercel.app/api?username=mohannadprogrammer&show_icons=true" alt="mohannad waheed " /> 
 </p> 
