@@ -1,5 +1,5 @@
 # Hi there 👋'
-<p align="left"><img src="m1.jpg" width="50%"  style="object-fit: cover; object-position: -120% 0;" />
+<p align="left"><img src="m1.jpg" width="50%"  style="object-fit: cover; object-position: -50% 0;" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
