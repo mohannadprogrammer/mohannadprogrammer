@@ -11,6 +11,10 @@ Researcher  in DevOps Philosophy (Green field in Software Engineering ) , which 
 </p>
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadprogrammer&layout=compact&theme=cobalt)](https://github.com/mohannadprogrammer/)
+
+
 u can see my adobe xd designs from here : https://github.com/mohannadprogrammer/adobe-XD-Daily-Design
 
 
