@@ -1,13 +1,16 @@
-# Hi there 👋'
+# Hi there 👋
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohannadprogrammer" alt="Mohannad waheed" /> </p>
 <p align="left" >
 <p>About me</p> 	
-I am Software Engineer and full stack developer in JavaScript (Node js , React js , React native js ) .I have the ability to find technical solutions for problems that face any Company  or individuals and building Reliable  , Usable , Efficient , portable and maintainable  software.
-
-Researcher  in DevOps Philosophy (Green field in Software Engineering ) , which is new  Philosophy in Software production increasing productivity, produce Software more valuable , facing client’s needs avoiding any unnecessary  requirements , and monitor  your Software production process even if Software deployed to client which  give you the ability to study the Software production Life Cycle  problems to avoid it in future.  
+I am Software Engineer .I have the ability to find technical solutions for problems that face any Company  or individuals and building Reliable  , Usable , Efficient , portable and maintainable  
 </p>
+
+# collaborate in scientific paper published in IEEE19 conferance 
+
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9071337">Adopting Contninuous Integration and Continuous Delivery for Small Teams </a>
+
 
 
 
