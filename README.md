@@ -17,13 +17,11 @@ I am Software Engineer .I have the ability to find technical solutions for probl
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohannadprogrammer&layout=compact&theme=cobalt)](https://github.com/mohannadprogrammer/)
 
 
-u can see my adobe xd designs from here : https://github.com/mohannadprogrammer/adobe-XD-Daily-Design
-
-
-<per align="center">
-- 🔭 I’m currently working on react native and react js frameworks 😍😘
-- 📫 How to reach me: waheedmohannad55578@gmail.com 👾
- </per>
- <p align="center">
+- 🔭 I’m currently working as Odoo developr 😍😘
+ 
+- 📫 How to reach me:
+    - waheedmohannad55578@gmail.com 👾
+    - mohannad.4.development@gmail.com
+  
  <img src="https://github-readme-stats.vercel.app/api?username=mohannadprogrammer&show_icons=true" alt="mohannad waheed " /> 
-</p> 
+ 
