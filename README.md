@@ -16,7 +16,7 @@ const Mohannad  = {
             python: ["flask"],
             php : ["laravel"] 
         },
-        devOps: ["Docker🐳"],
+        devOps: ["Docker🐳" , "anible" , "k8s"],
         databases: ["MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
     },
